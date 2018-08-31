@@ -167,14 +167,24 @@ footer {
         width:500px;
         left: 5%
     }
-    #gr{
-        margin-left: 5%;
+    #gr {
+        margin: 0px;
+        width: 100%;
+        text-align: center;
+
+    }
+    .top {      
+        width: 33.33333333%
     }
     h1{
         width: 500px;
     }
     .column{
         width:50%;
+    }
+    #pic{
+        width: 100%;
+        height: auto;
     }
  
 }
